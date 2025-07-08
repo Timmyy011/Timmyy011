@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+### About me
+- 🔭 I’m currently studying CS at NYCU, Taiwan
+- 🌱 I’m passionate about Machine Learning, Data Science
+
+### Contact Me
+- 📫 Email: timmycperfect@gmail.com
+
 <!--
 **Timmyy011/Timmyy011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
