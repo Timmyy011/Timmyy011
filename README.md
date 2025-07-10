@@ -1,4 +1,4 @@
-## Hi there!
+## Hi!
 
 ### About me
 - 🔭 I’m currently studying Computer Science at NYCU, Taiwan
