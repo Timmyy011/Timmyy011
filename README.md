@@ -2,7 +2,6 @@
 
 ### About me
 - 🔭 I’m currently studying Computer Science at NYCU, Taiwan
-- 🌱 I’m passionate about Machine Learning, Data Science
 
 ### Contact Me
 - 📫 Email: timmycperfect@gmail.com
